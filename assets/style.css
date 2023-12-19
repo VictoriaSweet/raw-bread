@@ -11,17 +11,25 @@ body {
 
   }
 
-winButton {
+  .currentScore {
+    border: solid black ;
+    height:auto;
+    width:500px;
+    color: black;
+  }
+.winButton {
   height:50px;
   width:500px;
   color: black;
 }
 
-loseButton {
+.loseButton {
   height:50px;
   width:500px;
   color: black;
 }
+
+
   /* textarea {
     background: transparent;
     border: none;
